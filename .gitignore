@@ -1,0 +1,9 @@
+deps/
+modules/
+debian/
+.vscode/
+
+## Executables
+
+hello_world
+shell
