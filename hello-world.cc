@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "v8.h"
+#include "include/v8.h"
 #include "libplatform/libplatform.h"
 
 int main(int argc, char* argv[]) {
